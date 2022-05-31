@@ -1,4 +1,4 @@
-## VITAL
+## VITAL: Vision-based neural method for UAV autonomous landing
 
 The project involves increasing the precision of landing (one of the most dangerous maneuvers for flying machines) under operational conditions on a mobile platform and taking care of safety in its vicinity.
 
